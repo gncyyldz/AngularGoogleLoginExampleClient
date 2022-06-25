@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "AngularGoogleLoginExampleClient"
+  "cli": {
+    "analytics": "68b25dbc-bed4-4c6c-9b8e-dd8f12b91613"
+  }
 }
